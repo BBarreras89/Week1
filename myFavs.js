@@ -17,6 +17,14 @@ const myFavMovie = {
             roleName: "Jamie Sullivan"
         },
         {
+            actorName: "Mandy Moore",
+            roleName: "Jamie Sullivan"
+        },
+        {
+            actorName: "Mandy Moore",
+            roleName: "Jamie Sullivan"
+        },
+        {
             actorName: "Shane West",
             roleName: "Landon Carter"
         },
