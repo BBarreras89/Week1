@@ -10,6 +10,7 @@ const myFavMovie = {
     title: `A Walk To Remember`,
     director: `Adam Shankman`,
     year: `2002`,
+    fun: `just for fun`,
     description: `A boy has to do extra curriculum work at the schools theater after an incedent. There he falls in love with his co star, but not everything is as happy as it seems.`,
     actors: [
         {
